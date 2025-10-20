@@ -9,7 +9,7 @@ Ce guide explique comment construire et exécuter un conteneur Docker basé sur 
 
 ***
 
-Tu veux pas tout lire:
+### 0. Tu veux pas tout lire
 
 * ./Run.sh build
 * ./Run.sh 
